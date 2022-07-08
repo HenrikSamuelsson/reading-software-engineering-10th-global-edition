@@ -4,7 +4,7 @@ Notes and exercises related to reading the book Software Engineering, Tenth Edit
 
 ## Book Resources
 
-Website: [iansommerville.com/software-engineering-book/](http://iansommerville.com/software-engineering-book/)  
+Website: [iansommerville.com/software-engineering-book/](http://iansommerville.com/software-engineering-book/)*  
 YouTube: [youtube.com/user/SoftwareEngBook](https://www.youtube.com/user/SoftwareEngBook)  
 
-Note that the web site does not use https which is strange and it might not even be accessible due to this, depending on web browser version used.
+Should be noted that the web site does not use https which is strange and unfortunate since it might not be accessible due to this, depending on web browser version used.
