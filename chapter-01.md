@@ -12,8 +12,7 @@ There can also be a need to produce material related to legislation's that must 
 
 ## Exercise 1.2
 
-What is the most important difference between generic software product development and custom
-software development? What might this mean in practice for users of generic software products?  
+What is the most important difference between generic software product development and custom software development? What might this mean in practice for users of generic software products?  
 
 ## Solution 1.2
 
@@ -22,3 +21,11 @@ A generic software is developed for a wider range of customers than a custom sof
 The end user is known ahead of starting the development in a custom product development project and will possibly be part of the development process, providing input and request for changes as the work proceeds. The exact end users are not known in generic software development meaning that the strategy used for collecting input and requirements will have to be handled in some other way.
 
 Users of generic software products will typically have little influence on the development and the end functionality since the pool of users is typically large and only a small amount of users are realistically deeply involved in the development. The fit between the users needs and the functionality of the software will hence not be as good as it could be. The benefit is that the users share the cost of the development and the price comes down greatly per user.
+
+## Exercise 1.3
+
+Briefly discuss why it is usually cheaper in the long run to use software engineering methods and techniques for software systems.
+
+## Solution 1.3
+
+Software engineering methodologies and processes will add overhead in many ways. Examples are planning, architectural design, written requirements, test automation, documentation and review of the artifacts created during this process. In the short run so can this been seen as obstacles slowing down the development but in the long run so will the benefits of having a structured process decrease the total development time. This is due to that the structure a software engineering processes ensurers quality and reduces confusion about what to be developed. It must also be accounted for that developers will come and go in the project, not having good documentation will make it hard for new developers to get up to speed.
