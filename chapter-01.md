@@ -29,3 +29,17 @@ Briefly discuss why it is usually cheaper in the long run to use software engine
 ## Solution 1.3
 
 Software engineering methodologies and processes will add overhead in many ways. Examples are planning, architectural design, written requirements, test automation, documentation and review of the artifacts created during this process. In the short run so can this been seen as obstacles slowing down the development but in the long run so will the benefits of having a structured process decrease the total development time. This is due to that the structure a software engineering processes ensurers quality and reduces confusion about what to be developed. It must also be accounted for that developers will come and go in the project, not having good documentation will make it hard for new developers to get up to speed.
+
+## Exercise 1.4
+
+Software engineering is not only concerned with issues like system heterogeneity, business and social change, trust, and security, but also with ethical issues affecting the domain. Give some examples of ethical issues that have an impact on the software engineering domain.
+
+## Solution 1.4
+
+Developing military equipment can be an ethical issue depending on a developers personal view on this matter.
+
+Not following the license rules when including code from open source projects is an ethical issue.
+
+Taking shortcuts or cheating in the validation process of safety critical systems possibly causing harm to people is an ethical issue.
+
+Development of systems to be used for by non democratic countries that might use it suppress the democratic movement is an ethical issue.
