@@ -40,6 +40,15 @@ Developing military equipment can be an ethical issue depending on a developers 
 
 Not following the license rules when including code from open source projects is an ethical issue.
 
-Taking shortcuts or cheating in the validation process of safety critical systems possibly causing harm to people is an ethical issue.
+Taking shortcuts or cheating in the validation process of safety critical systems possibly in the future causing harm to people is an ethical issue.
 
 Development of systems to be used for by non democratic countries that might use it suppress the democratic movement is an ethical issue.
+
+## Exercise 1.5
+
+Based on your own knowledge of some of the application types discussed in Section 1.1.2, explain, with examples, why different application types require specialized software engineering techniques to support their design and development.
+
+## Solution 1.5
+
+Cost of change is related to how much up front planning must be done. A system that is not connected and hence not remotely reachable, such as some embedded systems, can be very costly to update to a new software version. A technician might need to travel to each instance and open up the unit to be able to perform the update. When the cost of change is high so is it worth to spend more time on up-front planning to minimize the risk of having to perform a future update due to bugs or missed requirements on the product.
+
