@@ -70,4 +70,20 @@ A degree of dependability is needed for to be meet for the system to be usable. 
 
 Requirements management is a must for all types of software systems to have some type of progress tracking and steering towards the end goal in the development process. Some projects do a lot of upfront planning and and others will only plan for the upcoming two weeks but there needs to be some known requirements to know when the current work is done and also to be ables to test the system.
 
-Reuse is important in all projects since it is not cost efficient or fast to reinvent the wheel again and again for any type of project including software projects. There is virtually not a single software project that does not includes some type of reuse. Minimally a project will make use of the standard library that comes with the programming language used in the project. Then usually also both third-party components and already in-house developed ones will be included in the software system. 
+Reuse is important in all projects since it is not cost efficient or fast to reinvent the wheel again and again for any type of project including software projects. There is virtually not a single software project that does not includes some type of reuse. Minimally a project will make use of the standard library that comes with the programming language used in the project. Then usually also both third-party components and already in-house developed ones will be included in the software system.
+
+## Exercise 1.7
+
+Explain how electronic connectivity between various development teams can support software engineering activities.
+
+## Solution Exercise 1.7
+
+Communication is key for collaboration between teams because information needs to be shared as soon as more than one person is to be involved in a development project.
+
+Electronic connectivity based communication is preferred due to the real-time turn around time in the information flow even for geographically distributed teams.
+
+Todays systems for connectivity will also enable a wide array of mediums, such as text, sound, and video, for both group and one to one interaction.
+
+There are also various types of board based electronic systems for tracking and planning.
+
+Finally there are electronic systems for storing and maintaining code in a central repository enabling distributed teams work in parallel on a shared code base.
