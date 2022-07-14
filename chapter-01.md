@@ -76,7 +76,7 @@ Reuse is important in all projects since it is not cost efficient or fast to rei
 
 Explain how electronic connectivity between various development teams can support software engineering activities.
 
-## Solution Exercise 1.7
+## Solution 1.7
 
 Communication is key for collaboration between teams because information needs to be shared as soon as more than one person is to be involved in a development project.
 
@@ -87,3 +87,13 @@ Todays systems for connectivity will also enable sharing of a wide array of medi
 There are also various types of board based electronic systems for tracking and planning.
 
 Finally there are electronic systems for storing and maintaining code in a central repository enabling distributed teams work in parallel on a shared code base.
+
+## Exercise 1.8
+
+Uncertified individuals are still allowed to practice software engineering. Discuss some of the possible drawbacks of this.
+
+## Solution 1.8
+
+There is a higher risk of failure in a development project when staffing with uncertified new unknown individuals that might not have the required basic knowledge, or incorrect knowledge about prioritization of the work to be done.
+
+Certification is however no guarantee for the success of a project since there are also a lot of other factors that comes into play but if two candidates for the team seems equal otherwise so is the proper choose to go for the one with that do have certifications on the resume.
