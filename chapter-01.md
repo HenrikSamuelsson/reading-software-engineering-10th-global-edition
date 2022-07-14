@@ -82,7 +82,7 @@ Communication is key for collaboration between teams because information needs t
 
 Electronic connectivity based communication is preferred due to the real-time turn around time in the information flow even for geographically distributed teams.
 
-Todays systems for connectivity will also enable a wide array of mediums, such as text, sound, and video, for both group and one to one interaction.
+Todays systems for connectivity will also enable sharing of a wide array of mediums, such as text, sound, and video, for both group and one to one interaction.
 
 There are also various types of board based electronic systems for tracking and planning.
 
