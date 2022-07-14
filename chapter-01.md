@@ -96,4 +96,4 @@ Uncertified individuals are still allowed to practice software engineering. Disc
 
 There is a higher risk of failure in a development project when staffing with uncertified new unknown individuals that might not have the required basic knowledge, or incorrect knowledge about prioritization of the work to be done.
 
-Certification is however no guarantee for the success of a project since there are also a lot of other factors that comes into play but if two candidates for the team seems equal otherwise so is the proper choose to go for the one with that do have certifications on the resume.
+Certification is however no guarantee for the success of a project since there are also a lot of other factors that comes into play but if two candidates for the team seems equal otherwise so is the proper choose to go for the one that do have certifications on the resume.
