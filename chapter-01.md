@@ -97,3 +97,11 @@ Uncertified individuals are still allowed to practice software engineering. Disc
 There is a higher risk of failure in a development project when staffing with uncertified new unknown individuals that might not have the required basic knowledge, or incorrect knowledge about prioritization of the work to be done.
 
 Certification is however no guarantee for the success of a project since there are also a lot of other factors that comes into play but if two candidates for the team seems equal otherwise so is the proper choose to go for the one that do have certifications on the resume.
+
+## Exercise 1.9
+
+For each of the clauses in the ACM/IEEE Code of Ethics shown in Figure 1.3, propose an appropriate example that illustrates that clause.
+
+## Solution 1.9
+
+Public: The software engineer shall follow the rules and regulations such as the International Traffic in Arms Regulations (ITAR) to safe guard the national security that is in interest of the public to prevent conflicts.
