@@ -104,4 +104,6 @@ For each of the clauses in the ACM/IEEE Code of Ethics shown in Figure 1.3, prop
 
 ## Solution 1.9
 
-Public: The software engineer shall follow the rules and regulations such as the International Traffic in Arms Regulations (ITAR) to safe guard the national security. This is in interest of the public to prevent military conflicts.
+Public: The software engineer shall follow laws, rules and regulations. An example is the International Traffic in Arms Regulations (ITAR) to safe guard the national security of the United States, this is in interest of the public to prevent military conflicts.
+
+Client and Employer: An example here is that the software engineer shall follow eventual non disclosure agreement signed with the employer or client and not share secret information with third parties.
